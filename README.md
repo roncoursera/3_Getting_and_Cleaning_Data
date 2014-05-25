@@ -4,13 +4,13 @@ This repository contains codes and documentation for a simple program "run_analy
 which calculates mean values by subject and activity for various mean and standard deviation (std)
 parameters of data recorded from devices worn by subjects in a variety of activities. The output
 is a tab-delimited file named "tidydata.txt" with column headers included. See CodeBook.md for
-particulars on the data processing.
+particulars on the data processing and a description of the processed output.
 
 ## Data Source
 data description: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 data url: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-### Data Description
+### Original Data Description
 
 Data Set Characteristics:  Multivariate, Time-Series
 
@@ -30,7 +30,7 @@ Missing Values: N/A
 
 Number of Web Hits: 86233
 
-### Data Set Information:
+### Original Data Set Information:
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years.
 Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, 
 STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its 
@@ -55,7 +55,7 @@ from the time and frequency domain.
 - activityrecognition '@' smartlab.ws 
 - www.smartlab.ws 
 
-### Attribute Information:
+### Original Attribute Information:
 
 For each record in the dataset it is provided: 
 * Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration. 
