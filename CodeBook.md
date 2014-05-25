@@ -2,6 +2,17 @@
 ## Data Retrieval
 
 Data was manually downloaded from the following URL
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+File was unzipped.
+Working directory should begin in the parent directory which includes "UCI HAR Dataset"
+The directory "UCI HAR Dataset" should include the following:
+* activity_labels.txt (file)
+* features.txt (file) 
+* features_info.txt (file)
+* README.txt (file)
+* test (dir)
+* train (dir)
 
 ## Data Processing
 
