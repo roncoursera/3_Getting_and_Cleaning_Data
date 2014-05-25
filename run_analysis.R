@@ -1,5 +1,5 @@
 # require(RCurl) # only required for download
-require(reshape)
+require(reshape2) # melt, dcast
 
 # http://stackoverflow.com/questions/8986818/automate-zip-file-reading-in-r
 read.zip <- function(zipfile, row.names=NULL, dec=".") {
