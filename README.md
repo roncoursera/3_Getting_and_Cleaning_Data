@@ -13,13 +13,21 @@ data url: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20H
 ### Data Description
 
 Data Set Characteristics:  Multivariate, Time-Series
+
 Number of Instances: 10299
+
 Area: Computer
+
 Attribute Characteristics: N/A
+
 Number of Attributes: 561
+
 Date Donated: 2012-12-10
+
 Associated Tasks: Classification, Clustering
+
 Missing Values: N/A
+
 Number of Web Hits: 86233
 
 ### Data Set Information:
@@ -41,11 +49,11 @@ From each window, a vector of features was obtained by calculating variables
 from the time and frequency domain. 
 
 ### Original Source
-Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto. 
-Smartlab - Non Linear Complex Systems Laboratory 
-DITEN - Universit√  degli Studi di Genova, Genoa I-16145, Italy. 
-activityrecognition '@' smartlab.ws 
-www.smartlab.ws 
+- Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto. 
+- Smartlab - Non Linear Complex Systems Laboratory 
+- DITEN - Universit√  degli Studi di Genova, Genoa I-16145, Italy. 
+- activityrecognition '@' smartlab.ws 
+- www.smartlab.ws 
 
 ### Attribute Information:
 
