@@ -1,8 +1,10 @@
 ## Coursera Data Science 3 Getting and Cleaning Data
 
 This repository contains codes and documentation for a simple program "run_analysis.R"
-which calculates mean values by subject and activity for various mean and std deviation
-parameters of data recorded from devices worn by subjects in a variety of activities.
+which calculates mean values by subject and activity for various mean and standard deviation (std)
+parameters of data recorded from devices worn by subjects in a variety of activities. The output
+is a tab-delimited file named "tidydata.txt" with column headers included. See CodeBook.md for
+particulars on the data processing.
 
 ## Data Source
 data description: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
